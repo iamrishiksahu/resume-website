@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Rishik Sahu",
+    "occupation": "Software Enthusiast",
+    "description": "This is my modern portfolio website where you can see my work and learn more about me",
+    "image": "1645329300008.jpg",
+    "bio": "I'm interested in Web Development & Android Development. I have worked with a few comapnies as a freelancer and gained a good level of exposure. I'm good at understanding business perspective of the project and optimise the technology to meet the business requirements and enhance customer experience.",
+    "contactmessage": "Liked my profile? I'm always open to discuss new opportunities. Feel free to contact me.",
+    "email": "iamrishiksahu@gmail.com",
+    "phone": "+91 8987 400 143",
+    "address": {
+      "city": "BIT Mesra",
+    "zip": "835215", 
+    "state": "Ranchi, JH",
+    "street": "H1"
+    },
+    "website": "http://www.rishiksahu.com",
+    "resumedownload": "http://rishiksahu.in/rishik_kumar_sahu_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rishiksahubit/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "phone",
+        "url": "tel:+918987400143",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/iamrishiksahu",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:iamrishiksahu@gmail.com",
+        "className": "fa fa-reddit"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have worked with a lot of technologies and tools, some are listed here.",
+    "languagesmessage": "I am comfortable at reading at writing in the following languages.",
+    "education": [
+      {
+        "school": "Birla Institute of Technology, Mesra",
+        "degree": "Integrated M.Sc. in Mathematics & Computing",
+        "graduated": "2019 - Present",
+        "description": "CGPA: 8.56 (Current)"
+      },
+      {
+        "school": "Sri Agrasen School",
+        "degree": "Senior Secondary (XII - CBSE)",
+        "graduated": "Ended 2018",
+        "description": "Percentage: 76.40%"
+      },
+      {
+        "school": "DAV Public School",
+        "degree": "Secondary (X - CBSE)",
+        "graduated": "Ended 2016",
+        "description": "CGPA: 10.00"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ghughar Media Pvt. Ltd.",
+        "title": "Web Developer (Freelance)",
+        "years": "Oct. 2021 - Mar. 2022",
+        "description": "Built responsive landing pages for products and services | Built end-to-end websites using WordPress & ReactJS | Managed LMS platforms and web hosting panels. "
+      }, {
+        "company": "Jharkhand Warrior",
+        "title": "Android Developer (Freelance)",
+        "years": "May. 2020 - Jun. 2021",
+        "description": "Built Jharkhand Warrior android app (E-Learning App) | In this app, users can purchase courses, test series & notes | Technology used: Java, XML & Firebase."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "JAVA",
+        "level": "75%"
+      },
+      {
+        "name": "Functional JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Firebase",
+        "level": "85%"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": "55%"
+      },
+      {
+        "name": "Debugging",
+        "level": "75%"
+      },
+      {
+        "name": "WordPress",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "Firestore",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "XML",
+        "level": "70%"
+      },
+      {
+        "name": "RoomDB",
+        "level": "70%"
+      },
+      {
+        "name": "FCM",
+        "level": "80%"
+      },
+      {
+        "name": "Android Jetpack",
+        "level": "90%"
+      }
+
+    
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "90%"
+      },
+      {
+        "name": "Hindi",
+        "level": "95%"
+      }
+      
+    ]
+    
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Class Bhim",
+        "category": "A calculator that works fully with Functional JavaScript",
+        "image": "Functional-Calculator.jpg",
+        "url": "https://github.com/iamrishiksahu/classbhim"
+      },
+      {
+        "title": "Stock Alerts",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/iamrishiksahu/stock-alerts"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rishik is a determined person and very good at finding solutions. He has helped our organization to sail through various difficult technical challenges while launching our own platform for selling courses and course delivery. It was an amazing experience working with him.",
+        "user": "Roshan Singh (CEO - Jharkhand Warrior)"
+      },
+      {
+        "text": "The only thing I would like to say about him is he is a super honest, dedicated and resourceful person. I am very satisfied with his work.",
+        "user": "Vivek Rathore (Founder - Digital Vedic Store)"
+      } 
+    ]
+  }
+}
